@@ -1,0 +1,14 @@
+[
+  "branches.md",
+  "git-locations.md",
+  "git-objects.md",
+  "graph-model.md",
+  "index.md",
+  "merge-conflicts.md",
+  "merging.md",
+  "pull-and-push.md",
+  "remove-from-working-tree.md",
+  "sync-upstream.md",
+  "tracking-branches.md",
+  "undoing.md"
+]
