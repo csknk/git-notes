@@ -1,4 +1,9 @@
 # Rebasing
+Rebasing, like merging, is a way of integrating changes from one branch to another.
+
+Rebasing moves or combines a sequence of commits to a new base commit. This maintains a linear project history - making it appear as though the branch was created from a different commit (base).
+
+Rebase rewrites history, whereas merging is a forward moving change record.
 
 * Rebasing moves a branch to the tip of another branch
 * Rebasing is a form of merge and may result in merge conflicts
