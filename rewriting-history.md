@@ -102,7 +102,11 @@ add feature 1 wip
 #	new file:   fileB.txt
 #
 ```
-Amend messages, save and exit. Saving the file executes the interactive rebase.
+Amend messages, save and exit. 
+
+```bash
+
+```
 
 Squash
 ------
